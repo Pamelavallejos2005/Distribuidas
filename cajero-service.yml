@@ -13,4 +13,4 @@ spring:
     database-platform: org.hibernate.dialect.MySQLDialect
 cloud:
   config:
-    url: http://localhost:8860
+    url: http://localhost:8870
