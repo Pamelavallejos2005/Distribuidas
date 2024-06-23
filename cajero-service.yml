@@ -16,5 +16,5 @@ cloud:
     url: http://localhost:8870 
 eureka:
   client:
-    fetch-registry: true
-    register-with-eureka: true
+    fetch-registry: false
+    register-with-eureka: false
