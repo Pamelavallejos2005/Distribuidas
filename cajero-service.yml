@@ -14,7 +14,6 @@ spring:
 cloud:
   config:
     url: http://localhost:8870 
-
 eureka:
   client:
     fetch-registry: true
